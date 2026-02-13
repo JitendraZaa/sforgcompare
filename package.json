@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "amqp": "^0.2.7",
+    "async-timeout": "^1.0.2"
+  }
+}

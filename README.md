@@ -1,6 +1,11 @@
 # sforgcompare
 Django + Heroku application which compares metadata between two Salesforce environments and presents the differences
 
+# Local Setup
+1. Install Heroku CLI using Homebrew Command `brew tap heroku/brew && brew install heroku`
+1. Install Foreman using command `npm install -g foreman`
+1. Start Heroku locally using `nf start`
+
 ## Addons
 
 1. Heroku Postgres
